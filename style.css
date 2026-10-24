@@ -1,3 +1,4 @@
+
 body {
     background-color: #121212;
     color: white;
@@ -5,45 +6,56 @@ body {
     margin: 20px;
     text-align: center;
 }
+
 h1 {
     color: #1ed760;
 }
+
 h2 {
     color: #1ed760;
 }
+
 nav {
-    background-color: #881a1a;
+    background-color: #222222;
     padding: 15px;
     margin-bottom: 25px;
 }
+
 nav a {
     color: white;
     text-decoration: none;
     margin: 10px;
 }
+
 nav a:hover {
     color: #1ed760;
 }
+
 img {
     border-radius: 10px;
     margin: 10px;
     max-width: 90%;
     height: auto;
 }
+
 p {
     line-height: 1.6;
 }
+
 li {
     margin: 10px;
 }
+
 ul {
     display: inline-block;
     text-align: left;
 }
+
 a {
     color: #1ed760;
 }
+
 footer {
     margin-top: 40px;
-    color: #1ed760;
+    color: rgb(109, 105, 105);
 }
